@@ -33,6 +33,11 @@ fields:
   - type: text
     name: github_url
     label: github_url
+  - name: linked_in
+    type: text
+    config:
+      required: false
+    label: linked_in
 - type: text
   name: repository_url
   label: repository_url
