@@ -2,7 +2,7 @@
 title: The truth about Doug-fir-test
 author: ''
 date: 2019-07-09T16:04:44.000+00:00
-hero_image: https://res.cloudinary.com/podcastnetworkasia/image/upload/v1599359996/image/upload/bali-15_tvdvea.jpg
+hero_image: https://res.cloudinary.com/podcastnetworkasia/image/upload/v1599365435/image/upload/2-0-big-d-talks-cover_odtdpv.png
 
 ---
 **Tousled aesthetic retro,**
@@ -11,4 +11,4 @@ tofu put a bird on it marfa lomo you probably haven't heard of them cronut venmo
 
 Microdosing vice etsy photo booth cliche migas chambray banjo pickled mumblecore four dollar toast hella XOXO scenester venmo. Sriracha adaptogen mumblecore, yr man bun vexillologist fanny pack. Tbh activated charcoal vegan, art party gochujang craft beer jianbing twee. Deep v twee green juice, gastropub tumblr cloud bread yuccie authentic messenger bag. Glossier enamel pin health goth, XOXO affogato seitan selfies. Vexillologist mixtape leggings, brooklyn selfies umami bushwick food truck helvetica truffaut.
 
-![](https://res.cloudinary.com/podcastnetworkasia/image/upload/c_scale,w_auto:100,dpr_auto/v1599360081/image/upload/bali-13_gyfbyq.jpg)
+![](https://res.cloudinary.com/podcastnetworkasia/image/upload/q_auto/v1599365431/image/upload/2-0-geek-pd-cover_phhxpa.png)
