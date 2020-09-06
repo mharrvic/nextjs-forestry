@@ -7,8 +7,8 @@
   "author": "@kendallstraut",
   "scripts": {
     "dev": "next",
-    "build": "next build src",
     "next-build": "next build",
+    "build": "next build src",
     "start": "next start src",
     "next-start": "next start",
     "export": "next export src",

@@ -1,14 +1,56 @@
 {
-  "../data/config.json": [
+  "../../data/config.json": [
     {
-      "id": "./src/data/config.json",
-      "file": "static/chunks/1.js"
+      "id": "J77C",
+      "file": "static/chunks/5.3d827d5db734337ecbb8.js"
     }
   ],
-  "./dev/noop": [
+  "../data/config.json": [
     {
-      "id": "./node_modules/next/dist/client/dev/noop.js",
-      "file": "static/chunks/0.js"
+      "id": "J77C",
+      "file": "static/chunks/5.3d827d5db734337ecbb8.js"
+    }
+  ],
+  "../data/info.md": [
+    {
+      "id": "TfhG",
+      "file": "static/chunks/13.c92fb2fd6796bb2a806f.js"
+    }
+  ],
+  "./coastal-redwood.md": [
+    {
+      "id": "fr2m",
+      "file": "static/chunks/14.841481c599d2595f6330.js"
+    }
+  ],
+  "./doug-fir.md": [
+    {
+      "id": "/L9g",
+      "file": "static/chunks/15.70c0c98f22fb2679d50a.js"
+    }
+  ],
+  "./rocky-mountain-juniper.md": [
+    {
+      "id": "4Olq",
+      "file": "static/chunks/16.cd1080d06dbb68da470c.js"
+    }
+  ],
+  "./sample-2.md": [
+    {
+      "id": "m8PR",
+      "file": "static/chunks/17.af4c343314c9c6eef6d6.js"
+    }
+  ],
+  "./test3.md": [
+    {
+      "id": "G0Xn",
+      "file": "static/chunks/18.2c03e489cd093a11b5ee.js"
+    }
+  ],
+  "./the-oldest-living-organism-on-the-planet.md": [
+    {
+      "id": "UanY",
+      "file": "static/chunks/19.c89ebf32244122fc071e.js"
     }
   ]
 }
