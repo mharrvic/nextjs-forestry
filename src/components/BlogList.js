@@ -2,40 +2,44 @@ import Link from "next/link";
 import ReactMarkdown from "react-markdown";
 
 const BlogList = (props) => {
+  console.log("Image: ", props);
 
   function truncateSummary(content) {
     return content.slice(0, 200).trimEnd();
   }
 
   function reformatDate(fullDate) {
-    const date = new Date(fullDate)
+    const date = new Date(fullDate);
     return date.toDateString().slice(4);
   }
 
   return (
     <>
       <ul className="list">
-        {props.allBlogs.length > 1 && props.allBlogs.map(post => (
-          <Link
-            key={post.slug}
-            href={{ pathname: `/blog/${post.slug}` }}
-          >
-            <a>
-            <li>
-              <div className="hero_image">
-                <img src={post.document.data.hero_image} alt={post.document.data.hero_image} />
-              </div>
-              <div className="blog__info">
-                <h2>{post.document.data.title}</h2>
-                <h3> {reformatDate(post.document.data.date)}</h3>
-                <p>
-                  <ReactMarkdown source={truncateSummary(post.document.content)} />
-                </p>
-              </div>
-            </li>
-            </a>
-          </Link>
-        ))}
+        {props.allBlogs.length > 1 &&
+          props.allBlogs.map((post) => (
+            <Link key={post.slug} href={{ pathname: `/blog/${post.slug}` }}>
+              <a>
+                <li>
+                  <div className="hero_image">
+                    <img
+                      src={post.document.data.hero_image}
+                      alt={post.document.data.hero_image}
+                    />
+                  </div>
+                  <div className="blog__info">
+                    <h2>{post.document.data.title}</h2>
+                    <h3> {reformatDate(post.document.data.date)}</h3>
+                    <p>
+                      <ReactMarkdown
+                        source={truncateSummary(post.document.content)}
+                      />
+                    </p>
+                  </div>
+                </li>
+              </a>
+            </Link>
+          ))}
       </ul>
       <style jsx>
         {`
@@ -47,7 +51,9 @@ const BlogList = (props) => {
             opacity: 0.8;
             transition: opacity 0.3s ease;
           }
-          a:hover li .blog__info h2, a:hover li .blog__info h3, a:hover li .blog__info p {
+          a:hover li .blog__info h2,
+          a:hover li .blog__info h3,
+          a:hover li .blog__info p {
             transform: translateX(10px);
             transition: transform 0.5s ease-out;
           }
@@ -73,7 +79,9 @@ const BlogList = (props) => {
             transition: transform 0.3s ease-in;
             border-bottom: 1px solid #ebebeb;
           }
-          .blog__info h2, .blog__info h3, .blog__info p {
+          .blog__info h2,
+          .blog__info h3,
+          .blog__info p {
             transform: translateX(0px);
             transition: transform 0.5s ease-out;
           }
@@ -121,7 +129,6 @@ const BlogList = (props) => {
               margin-bottom: 1.2rem;
             }
           }
-
         `}
       </style>
     </>

@@ -1,0 +1,14 @@
+{
+  "../data/config.json": [
+    {
+      "id": "./src/data/config.json",
+      "file": "static/chunks/1.js"
+    }
+  ],
+  "./dev/noop": [
+    {
+      "id": "./node_modules/next/dist/client/dev/noop.js",
+      "file": "static/chunks/0.js"
+    }
+  ]
+}

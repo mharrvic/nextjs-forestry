@@ -6,9 +6,11 @@
   "version": "0.1.0",
   "author": "@kendallstraut",
   "scripts": {
-    "dev": "next src",
+    "dev": "next",
     "build": "next build src",
+    "next-build": "next build",
     "start": "next start src",
+    "next-start": "next start",
     "export": "next export src",
     "deploy": "yarn build && yarn export",
     "forestry-preview": "next src -p 8080 -H 0.0.0.0"
