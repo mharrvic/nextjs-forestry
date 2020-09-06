@@ -21,8 +21,8 @@ sections:
   path: src/data/info.md
   label: Info Page
 upload_dir: image/upload
-public_path: https://res.cloudinary.com/{{ CLOUD_NAME }}/image/upload/c_scale,w_auto:100,dpr_auto
-front_matter_path: https://res.cloudinary.com/{{ CLOUD_NAME }}/image/upload
+public_path: https://res.cloudinary.com/podcastnetworkasia/image/upload/c_scale,w_auto:100,dpr_auto
+front_matter_path: https://res.cloudinary.com/podcastnetworkasia/image/upload
 use_front_matter_path: true
 file_template: ":filename:"
 build:
