@@ -2,7 +2,7 @@
 title: The most incredible juniper
 author: ''
 date: 2019-07-08T16:05:29.000+00:00
-hero_image: https://res.cloudinary.com/podcastnetworkasia/image/upload/v1599359996/image/upload/bali-1_nbnsm4.jpg
+hero_image: https://res.cloudinary.com/podcastnetworkasia/image/upload/v1599365430/image/upload/2-0-walwal-sesh-cover_lm99dh.png
 
 ---
 **Juniperus scopulorum**, the Rocky Mountain juniper, is a species of juniper native to western North America, in Canada in British Columbia and southwest Alberta, in the United States from Washington east to North Dakota, south to Arizona and also locally western Texas, and northernmost Mexico from Sonora east to Coahuila. It grows at altitudes of 500–2,700 metres (1,600–8,900 ft) on dry soils, often together with other juniper species. "Scopulorum" means "of the mountains.
