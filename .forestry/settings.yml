@@ -20,7 +20,7 @@ sections:
 - type: document
   path: src/data/info.md
   label: Info Page
-upload_dir: image/upload
+upload_dir: ''
 public_path: https://res.cloudinary.com/podcastnetworkasia/image/upload/q_auto
 front_matter_path: https://res.cloudinary.com/podcastnetworkasia/image/upload/q_auto
 use_front_matter_path: true
