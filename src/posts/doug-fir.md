@@ -2,11 +2,13 @@
 title: The truth about Doug-fir-test
 author: ''
 date: 2019-07-09T16:04:44.000+00:00
-hero_image: https://res.cloudinary.com/{{ CLOUD_NAME }}/image/upload/v1599360081/image/upload/bali-13_gyfbyq.jpg
+hero_image: https://res.cloudinary.com/podcastnetworkasia/image/upload/v1599359996/image/upload/bali-15_tvdvea.jpg
 
 ---
-**Tousled aesthetic retro,** 
+**Tousled aesthetic retro,**
 
 tofu put a bird on it marfa lomo you probably haven't heard of them cronut venmo four dollar toast. Asymmetrical locavore portland flexitarian. Tattooed edison bulb franzen, wayfarers enamel pin pok pok crucifix asymmetrical brooklyn irony gastropub fixie. Gentrify meggings edison bulb migas fanny pack yuccie. Keytar ugh shaman sriracha. Cardigan succulents listicle meditation, next level fixie snackwave raw denim palo santo bitters hashtag lyft normcore hot chicken.
 
 Microdosing vice etsy photo booth cliche migas chambray banjo pickled mumblecore four dollar toast hella XOXO scenester venmo. Sriracha adaptogen mumblecore, yr man bun vexillologist fanny pack. Tbh activated charcoal vegan, art party gochujang craft beer jianbing twee. Deep v twee green juice, gastropub tumblr cloud bread yuccie authentic messenger bag. Glossier enamel pin health goth, XOXO affogato seitan selfies. Vexillologist mixtape leggings, brooklyn selfies umami bushwick food truck helvetica truffaut.
+
+![](https://res.cloudinary.com/podcastnetworkasia/image/upload/c_scale,w_auto:100,dpr_auto/v1599360081/image/upload/bali-13_gyfbyq.jpg)
