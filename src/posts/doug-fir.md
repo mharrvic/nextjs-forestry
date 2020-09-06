@@ -1,8 +1,8 @@
 ---
 title: The truth about Doug-fir-test
 author: ''
-date: 2019-07-09T16:04:44Z
-hero_image: "../static/iceland-1.jpg"
+date: 2019-07-09T16:04:44.000+00:00
+hero_image: https://res.cloudinary.com/{{ CLOUD_NAME }}/image/upload/v1599360081/image/upload/bali-13_gyfbyq.jpg
 
 ---
 **Tousled aesthetic retro,** 
