@@ -20,10 +20,10 @@ sections:
 - type: document
   path: src/data/info.md
   label: Info Page
-upload_dir: src/static
-public_path: src/static
-front_matter_path: ''
-use_front_matter_path: false
+upload_dir: image/upload
+public_path: https://res.cloudinary.com/{{ CLOUD_NAME }}/image/upload/c_scale,w_auto:100,dpr_auto
+front_matter_path: https://res.cloudinary.com/{{ CLOUD_NAME }}/image/upload
+use_front_matter_path: true
 file_template: ":filename:"
 build:
   preview_output_directory: src/.next
