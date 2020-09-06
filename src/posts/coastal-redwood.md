@@ -2,7 +2,7 @@
 title: The coastal red giants
 author: ''
 date: 2019-07-10T16:04:44.000+00:00
-hero_image: https://res.cloudinary.com/podcastnetworkasia/image/upload/v1599359996/image/upload/hong-kong-1_wxe15d.jpg
+hero_image: https://res.cloudinary.com/podcastnetworkasia/image/upload/v1599365426/image/upload/2-0-ypo-cover_rbefys.png
 
 ---
 Pseudotsuga menziesii is an evergreen conifer species in the pine family, Pinaceae. It is native to western North America and is known as Douglas fir,Douglas-fir,Oregon pine,and Columbian pine. There are two varieties: coast Douglas-fir (P. menziesii var. menziesii), and Rocky Mountain Douglas-fir (P. menziesii var. glauca).
